@@ -1,0 +1,10 @@
+192.168.0.1
+username    admin
+password     admin
+
+network
+wan
+pppoe
+username 012024233597_dsl@airtelbroadband.in
+
+password  7020018134

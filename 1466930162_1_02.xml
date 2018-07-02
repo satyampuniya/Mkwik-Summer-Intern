@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="C:\Program Files\Bitdefender\Bitdefender 2016\ondemand.xsl"?>
+<ScanSession creator="Bitdefender Total Security 2016" name="Device Scanning" installPath="C:\Program Files\Bitdefender\Bitdefender 2016\" creationDate="Sunday, June 26, 2016 2:09:33 PM" originalPath="C:\Users\SATYAM\AppData\Roaming\Bitdefender\Desktop\Profiles\Logs\db7af1a4-db8-4f42-903a-9d200e40d03c\1466930162_1_02.xml" >
+	<ScanSettings 
+		statisticsRefreshInterval="1000"
+		scanSpeed="1.000000"
+		lowPriority="0"
+		enableExclusions="0"
+		enableTaskExclusions="0"
+		scanAdware="1"
+		scanSpyware="1"
+		scanApplications="1"
+		scanDialers="1"
+		scanKeyloggers="1"
+		scanFiles="1"
+		scanAllFiles="1"
+		scanProgramsOnly="0"
+		useCustomPrograms="0"
+		customPrograms=""
+		scanUserDefined="0"
+		scanPacked="1"
+		scanArchives="1"
+		useSmartScan="1"
+		scanEmails="1"
+		scanRootkits="0"
+		scanAllRootkits="0"
+		scanBoot="0"
+		scanMemory="0"
+		scanRegistry="0"
+		quickScan="0"
+		quickScanMemory="0"
+		quickScanAutoruns="0"
+		quickScanPlugins="0"
+		scanCookies="0"
+		shutdownAfter="0"
+		passwordPrompt="0"
+		onlyAllowedActions="1"
+		deepArchiveScan="1"
+		maxArchiveLevel="15"
+		maxArchiveSize="10485760"
+		infectedAction1="1"
+		infectedAction2="1"
+		suspectAction1="1"
+		suspectAction2="1"
+		rootkitAction="1"
+		userDefinedExtensions=""
+		scanPua="-1"
+	>
+
+		<ScanPaths>
+			<path>F:\</path>
+		</ScanPaths>
+
+		<ExcludedPaths>
+		</ExcludedPaths>
+
+		<ExcludedExtensions>
+		</ExcludedExtensions>
+
+	</ScanSettings>
+
+	<EngineSummary
+		totalSignatures="6795080"
+		/>
+
+	<ScanSummary
+		scannedArchives="0"
+		scannedPacked="0"
+		startTime="1466930162"
+		duration="105610"
+	>
+
+		<TypeSummary type="1"
+			scanned="0"
+			infected="0"
+			suspicious="0"
+			disinfected="0"
+			deleted="0"
+			moved="0"
+			moved_reboot="0"
+			delete_reboot="0"
+			renamed="0"
+			hidden="0"
+		/>
+
+		<TypeSummary type="4"
+			scanned="0"
+			infected="0"
+			suspicious="0"
+			disinfected="0"
+			deleted="0"
+			moved="0"
+			moved_reboot="0"
+			delete_reboot="0"
+			renamed="0"
+			hidden="0"
+		/>
+
+		<TypeSummary type="0"
+			scanned="20541"
+			infected="1"
+			suspicious="0"
+			disinfected="0"
+			deleted="1"
+			moved="0"
+			moved_reboot="0"
+			delete_reboot="0"
+			renamed="0"
+			hidden="0"
+		/>
+
+		<TypeSummary type="5"
+			scanned="0"
+			infected="0"
+			suspicious="0"
+			disinfected="0"
+			deleted="0"
+			moved="0"
+			moved_reboot="0"
+			delete_reboot="0"
+			renamed="0"
+			hidden="0"
+		/>
+
+		<TypeSummary type="2"
+			scanned="0"
+			infected="0"
+			suspicious="0"
+			disinfected="0"
+			deleted="0"
+			moved="0"
+			moved_reboot="0"
+			delete_reboot="0"
+			renamed="0"
+			hidden="0"
+		/>
+
+		<TypeSummary type="3"
+			scanned="0"
+			infected="0"
+			suspicious="0"
+			disinfected="0"
+			deleted="0"
+			moved="0"
+			moved_reboot="0"
+			delete_reboot="0"
+			renamed="0"
+			hidden="0"
+		/>
+
+		<TypeSummary type="6"
+			scanned="0"
+			infected="0"
+			suspicious="0"
+			disinfected="0"
+			deleted="0"
+			moved="0"
+			moved_reboot="0"
+			delete_reboot="0"
+			renamed="0"
+			hidden="0"
+		/>
+
+	</ScanSummary>
+
+	<ScanDetails>
+		<UnresolvedDetails>
+		</UnresolvedDetails>
+
+		<ResolvedDetails>
+			<Item type="0" objectType="0" path="F:\private\2000fda7\phone_as_modem.iso=&gt;NOKIAPCIA_AUTORUN.EXE" threatType="0" threatName="Gen:Trojan.Heur.gmW@@3Iithkai" action="5" allActions="1 5" initialStatus="3" finalStatus="5" quarId="" failReason="0" />
+		</ResolvedDetails>
+
+		<IgnoredDetails>
+		</IgnoredDetails>
+
+		<QuickScanDetails>
+		</QuickScanDetails>
+		<NotScannedDetails
+			skipped="0"
+			ioerrors="5"
+			archiveBombs="0"
+			passwordProtected="1"
+		>
+
+			<Item type="0" objectType="0" path="F:\cities\mwconfig=&gt;no_blankspace_mwconfig.xml" threatType="0" threatName="" action="1" allActions="" initialStatus="10" finalStatus="10" failReason="5" />
+		</NotScannedDetails>
+	</ScanDetails>
+
+</ScanSession>
